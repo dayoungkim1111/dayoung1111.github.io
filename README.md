@@ -4,5 +4,6 @@ TIL(Today I Learn)
 
 ---------
 Week 1
-LINK : [httP://dayoung1111.github.io](블로그)
+LINK : [블로그](httP://dayoung1111.github.io)
 =========
+
